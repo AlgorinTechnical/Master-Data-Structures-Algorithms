@@ -1,5 +1,7 @@
-// Java program to print largest contiguous array sum
-//Optimized Solution "Kadane"
+/* 
+ * Time complexity: O(N), where N is the length of nums. (We iterate through every element of nums exactly once.)
+ * Space complexity: O(1)
+ */
 
 import java.io.*;
 import java.lang.*;
@@ -43,9 +45,3 @@ public class Optimized {
 		}
 	}
 }
-
-
-
-
-Time complexity: O(N), where N is the length of nums. (We iterate through every element of nums exactly once.)
-Space complexity: O(1)
