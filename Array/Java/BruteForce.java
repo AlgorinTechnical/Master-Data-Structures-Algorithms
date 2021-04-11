@@ -1,5 +1,7 @@
-// Java program to print largest contiguous array sum
-//Brute Force Solution
+/*
+ * Time complexity: O(N^2), where N is the length of nums.
+ * Space complexity: O(1)
+ */
 
 import java.io.*;
 import java.lang.*;
@@ -48,12 +50,3 @@ public class BruteForce {
 		}
 	}
 }
-
-
-
-Time complexity: O(N^2), where N is the length of nums.
-Space complexity: O(1)
-
-
-
-
