@@ -1,5 +1,7 @@
-// C++ program to print largest contiguous array sum
-//Brute Force Solution
+/*
+ * Time complexity: O(N^2), where N is the length of nums.
+ * Space complexity: O(1)
+ */
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -46,7 +48,3 @@ int main()
     }
     return 0; 
 }
-
-
-Time complexity: O(N^2), where N is the length of nums.
-Space complexity: O(1)
